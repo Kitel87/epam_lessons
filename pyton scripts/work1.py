@@ -1,5 +1,5 @@
 
-
+print('Hello')
 
 def enterProducts():
     buyingData = {}
