@@ -1,6 +1,3 @@
-
-print('Hello')
-
 def enterProducts():
     buyingData = {}
     enterDetails = True
